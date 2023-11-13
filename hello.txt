@@ -1,0 +1,3 @@
+echo "Hello world"
+
+echo "who are there in the world"
